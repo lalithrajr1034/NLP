@@ -5,4 +5,11 @@ TEXT PRE-PROCESSING PIPELINE
 4. Remove Punctuation's
 5. Chat word treatement
 6. Speling correction
-7. 
+7. Remove stop words
+
+part_2.ipynb
+
+8. Handling emojis
+9. Tokenization
+10. Stemming
+11. Lemitisation
